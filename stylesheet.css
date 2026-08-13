@@ -33,10 +33,6 @@ body{
   color:#94A3B8;
 }
 
-a:hover{
-  text-decoration: underline;
-}
-
 p{
   color:#94A3B8;
 }
@@ -54,4 +50,30 @@ h1, h2, h3, h4, h5, h6{
   background: #38BDF8;
   color:#0F172A;
   
+}
+
+svg{
+  width: 30px;
+  
+}
+
+.contact{
+
+  background-position: center;
+  background-size: contain;
+  background-repeat: no-repeat;
+  background-color: rgba(15, 23, 42, 0.85);
+}
+
+.contact a{
+  margin-left: 4%;
+  text-decoration: none;
+  color: #94A3B8;
+}
+.contact a:hover,.contact a:active{
+  color:#38BDF8;
+}
+
+a:hover{
+  text-decoration: underline;
 }
