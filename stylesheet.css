@@ -1,0 +1,24 @@
+p{
+  font-family: sans-serif;
+  color:rgb(114, 142, 186);
+}
+
+body{
+  background-image: url("./assets/sl_031420_28950_10.jpg");
+  padding: 20px;
+  background-position: center;
+  background-size: cover;
+}
+
+h1{
+  font-size: 30px;
+  color:rgb(2, 57, 70);
+}
+
+.page-nav{
+  margin: 10px;
+}
+
+h2{
+  color:rgb(3, 230, 154);
+} 
