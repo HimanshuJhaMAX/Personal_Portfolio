@@ -1,0 +1,16 @@
+Color's Used:
+
+1. Modern Dark Mode (The "Developer Classic")
+Best for: Showcasing coding projects, highlighting technical skills, and giving a sleek, modern, terminal-inspired vibe.
+
+Background (Deep Slate): #0F172A (Tailwind Slate 900)
+
+Surface/Cards (Dark Charcoal): #1E293B (Tailwind Slate 800)
+
+Primary Text (Off-White): #F8FAFC (Tailwind Slate 50)
+
+Muted Text (Cool Gray): #94A3B8 (Tailwind Slate 400)
+
+Accent (Electric Cyan): #06B6D4 (Tailwind Cyan 500) — Great for links, active states, and primary CTA buttons.
+
+Pop/Highlight (Neon Green): #22C55E (Tailwind Green 500) — Ideal for status badges like "Available for hire".
