@@ -27,24 +27,35 @@ header{
   border-radius: 20px;
   display: flex;
   justify-content: space-between;
-  
 }
 
 .name{
   border-radius: 10px;
-  color:#0F172A;
+  color:#22C55E;
   padding:5px 10px;
-  transition: 0.5s ease-in;
+  transition:all 0.5s ease ;
 }
 
 .name:hover{
   box-shadow:0 0 15px rgba(6, 182, 212, 0.4) ;
   background-color: #06B6D4;
+  color:rgb(0, 58, 21);
+  font-weight: bold;
 }
 
 .head-nav{
   width: 40%;
   padding:5px 10px;
   text-align: right;
+  display: flex;
+}
+
+.page-nav{
+  background-color: #06B6D4;
+  padding:5px 10px;
+  border-radius: 10px;
+  gap: 10px;
+  justify-content: right;
+  
 }
 
