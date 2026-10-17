@@ -21,6 +21,8 @@ header{
   padding:10px;
   width: 95%;
   height:fit-content;
+  align-items: center;
+  flex-direction: wrap;
   display: flex;
   margin:10px;
   padding:10px ;
@@ -43,17 +45,18 @@ header{
 }
 
 .head-nav{
+  flex-wrap: wrap;
+  justify-content: center;
   width: auto;
   margin-right: 5%;
   padding:5px 10px;
   display: flex;
-  border:1px solid red;
+  margin-right:0;
 }
 
 .page-nav{
   padding:5px ;
   border-radius: 10px;
-  gap: 10px;
   display:inline-flex;
   justify-content: right;
   margin:4px;
@@ -63,5 +66,17 @@ header{
 .page-nav:hover{
   background-color:#06B6D4 ;
   box-shadow:0 0 15px rgba(6, 182, 212, 0.4) ;
+}
+
+
+.project-btn{
+  font-style: none;
+  background-color: #1e293b;
+  border:transparent;
+  color:#22C55E;
+  padding:2px 5px;
+  border-radius: 10px;
+  box-shadow: 0 0 5px 2px #09355a;
+  
 }
 
